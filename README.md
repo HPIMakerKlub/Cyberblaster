@@ -1,7 +1,7 @@
 # Cyberblaster
 Because light isn't just light
 
-# Materialien
+### Materialien
 - 4mm Sperrholz für die Spanten
 - 6mm Sperrholz für die beiden Ringe
 - CPU Kühler (> 100 Watt TDP, ansonsten muss der Lüfter ständig wühlen)
@@ -11,7 +11,7 @@ Because light isn't just light
 - WeMos, siehe wemos.cc (Zur Not habe ich auch welche vorrätig)
 - Hühnerfutter zum MOSFET treiben
 
-# Anleitung
+### Anleitung
 - Bauteile lasercutten und zusammenkleben
 - LED mit Wärmeleitpaste auf dem Kühler anbringen und den Kühler am Lampenschirm anbringen
 - MOSFET zwischen Treiber(-) und LED(-) hängen. WeMos über Transistoren mit dem MOSFET verdrahten (D0). Schaltplan folgt.
