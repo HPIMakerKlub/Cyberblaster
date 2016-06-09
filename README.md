@@ -1,6 +1,7 @@
 # Cyberblaster
 Because light isn't just light
 
+![Image of a cyberblaster](https://raw.githubusercontent.com/HPIMakerKlub/Cyberblaster/master/photo357857809430327000.jpg)
 ### Materialien
 - 4mm Sperrholz für die Spanten
 - 6mm Sperrholz für die beiden Ringe
